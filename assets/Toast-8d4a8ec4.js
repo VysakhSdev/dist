@@ -1,0 +1,1 @@
+import{a5 as r}from"./index-7a7cd404.js";const a=({message:o,type:s})=>{const e={position:"top-right",autoClose:3e3,hideProgressBar:!1,closeOnClick:!0,pauseOnHover:!0,draggable:!0,progress:void 0,theme:"dark"};return s?r.success(o,e):r.error(o,e),null};export{a as S};
